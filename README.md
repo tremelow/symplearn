@@ -1,10 +1,4 @@
-https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder
-
-Write a pyproject.toml: https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
-
-https://packaging.python.org/en/latest/tutorials/packaging-projects/#choosing-build-backend
-
-https://packaging.python.org/en/latest/guides/packaging-namespace-packages/
+# Neural non-canonical Hamiltonian dynamics
 
 ## Installation
 
